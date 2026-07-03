@@ -1,0 +1,14 @@
+body {   
+    background-color: navajowhite
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+  }
+  header{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-style: italic;
+    font-size: xx-large;
+    font-weigth: bolder
+
+  }
